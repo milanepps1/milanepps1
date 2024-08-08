@@ -12,8 +12,8 @@ My exposure to the world of cybersecurity has fueled my passion as a lifelong le
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - Creating a Virtual Machine and Deploying a Web Server with Microsoft Azure
-  - Creating an EC2 Instance and Assigning a Static IP using Elastic IPs in AWS 
+  - [Azure VM and Web Server] Creating a Virtual Machine and Deploying a Web Server with Microsoft Azure
+  - [AWS Elastic IPs with Amazon Linux AMI (Amazon Machine Image)] Creating an EC2 Instance and Assigning a Static IP using Elastic IPs in AWS 
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 
@@ -44,11 +44,6 @@ My exposure to the world of cybersecurity has fueled my passion as a lifelong le
     <img src="https://img.shields.io/badge/-Nessus-purple?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
-<h2> 📨 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/milan-epps-19a199263/
 
 <!--
 **milanepps1/milanepps1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,7 +56,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
