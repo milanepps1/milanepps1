@@ -1,6 +1,6 @@
 <h1>Hi, I'm Milan! <br/><a href="https://github.com/milanepps1"></a> <h1> 
-<a href="https://linkedin.com/milanepps"></a>
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/milanepps"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 I am a cybersecurity professional with over 8 years of technical support and support management skills in B2B and B2C environments.
 
