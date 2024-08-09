@@ -11,8 +11,9 @@ My exposure to the world of cybersecurity has fueled my passion as a lifelong le
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Microsoft Azure</b>
   - <a href="https://github.com/milanepps1/Azure-Web-Server-VM/tree/main"> Nextcloud VNet Deployment in Microsoft Azure</a>
+- <b>AWS</b>
   - [AWS Elastic IPs with Amazon Linux AMI (Amazon Machine Image)] Creating an EC2 Instance and Assigning a Static IP using Elastic IPs in AWS 
 
 
