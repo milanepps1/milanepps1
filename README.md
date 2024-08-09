@@ -12,9 +12,9 @@ My exposure to the world of cybersecurity has fueled my passion as a lifelong le
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Azure VM and Web Server] Creating a Virtual Machine and Deploying a Web Server with Microsoft Azure
+  - [Azure VM and Web Server] (Nextcloud Deplyment in Azure)(https://github.com/milanepps1/Azure-Web-Server-VM/tree/main)
   - [AWS Elastic IPs with Amazon Linux AMI (Amazon Machine Image)] Creating an EC2 Instance and Assigning a Static IP using Elastic IPs in AWS 
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 
 
 <h2>🎖️ Certifications</h2>
