@@ -20,8 +20,7 @@ My exposure to the world of cybersecurity has fueled my passion as a lifelong le
 
 <h2>🎖️ Certifications</h2>
 
-- <a href=https://www.credly.com/badges/60a2dbfc-0afe-4509-aec4-7e0b4810d75e/public_url>Red Hat Certified System Administrtator</a> ![image](https://github.com/user-attachments/assets/683828b4-eb8e-459a-9c31-1b9fa4b85e50)
-)
+- <a href=https://www.credly.com/badges/60a2dbfc-0afe-4509-aec4-7e0b4810d75e/public_url>Red Hat Certified System Administrtator</a> ![image](https://github.com/user-attachments/assets/7e21c0aa-99d7-4563-86c2-34eee6ec2727)
   
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/AB7B9ZDX85LE">Google Cybersecurity</a> ![image](https://github.com/milanepps1/milanepps1/assets/52061015/45dab559-9510-4b44-8e37-03b835aeef12)
 
