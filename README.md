@@ -1,15 +1,30 @@
-<h1>Hi, I'm Milan! <br/><a href="https://github.com/milanepps1"></a> <h1> 
-<a href="https://www.linkedin.com/in/milanepps/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi, I'm Milan 👋</h1>
 
+  <strong>Cybersecurity & Linux Systems Administrator | RHCSA Certified | Security+ Certified</strong><br>
+  1+ year of experience in Linux Systems Adminstration, 3 years of experience in Cybersecurity, and 8+ years of experience in technical support and support leadership in B2B and B2C environments.
+</p>
 
-I am a cybersecurity professional with over 8 years of technical support and support management skills in B2B and B2C environments.
+---
 
-## Objective
+## 🧭 About Me
 
-My exposure to the world of cybersecurity has fueled my passion as a lifelong learner, eager to continue building my professional skills in threat hunting, incident response, and cyber defense.
+💻 I specialize in Linux system administration, cloud security, and endpoint detection.  
+🔐 Passionate about incident response, threat hunting, and automation.  
+🚀 Currently expanding my skills in AWS, Azure, and SIEM tools. 
 
+---
 
-<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
+## 🛠️ Technical Skills
+
+**Platforms**: RHEL / CentOS, Windows Server, Azure, AWS  
+**Tools**: Git, Ansible, Docker, Apache, FreeIPA  
+**Security**: Wireshark, BitDefender, Microsoft Sentinel, Splunk, Nessus  
+**Languages**: Bash, Python, HTML/CSS  
+**Certs**: RHCSA, CompTIA Security+, Google Cybersecurity 
+
+---
+
+## 🧪 Featured Projects
 
 - <b>Microsoft Azure</b>
   - <a href="https://github.com/milanepps1/Azure-Web-Server-VM/tree/main"> Nextcloud VNet Deployment in Microsoft Azure</a>
@@ -18,34 +33,31 @@ My exposure to the world of cybersecurity has fueled my passion as a lifelong le
 
 
 
-<h2>🎖️ Certifications</h2>
+---
 
-- <a href=https://www.credly.com/badges/60a2dbfc-0afe-4509-aec4-7e0b4810d75e/public_url>Red Hat Certified System Administrtator</a> ![image](https://github.com/user-attachments/assets/7e21c0aa-99d7-4563-86c2-34eee6ec2727)
-  
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/AB7B9ZDX85LE">Google Cybersecurity</a> ![image](https://github.com/milanepps1/milanepps1/assets/52061015/45dab559-9510-4b44-8e37-03b835aeef12)
+## 🧾 Certifications
 
-- <a href="https://www.credly.com/badges/16708cc0-1513-4830-8ecc-07c8a437f848/public_url">CompTIA Security+</a> ![image](https://github.com/milanepps1/milanepps1/assets/52061015/8ad3ba45-bfac-4c29-b5a7-7ce4ff3a0726)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Red%20Hat-RHCSA-critical?logo=redhat&logoColor=white&style=for-the-badge"/></td>
+    <td><img src="https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white&style=for-the-badge"/></td>
+    <td><img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white&style=for-the-badge"/></td>
+  </tr>
+</table>
+
+---
+
+## 📡 Let's Connect
+
+📫 [LinkedIn](https://www.linkedin.com/in/milanepps/)  
+💼 Resume: *Available upon request*
+
+---
 
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
+## 📊 GitHub Stats
 
-</div>
-
-### Endpoint Detection and Response
-<div>
-    <img src="https://img.shields.io/badge/-Bitdefender-red?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/Splunk-white?&style=for-the-badge&color=orange" />
-    <img src="https://img.shields.io/badge/-Nessus-purple?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
+![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanepps1&show_icons=true&theme=github_dark&hide_border=true)
 
 
 <!--
