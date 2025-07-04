@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=535&lines=Hi+there!+I'm+Milan+Epps.;Linux+Systems+Admin+%7C+Cloud+Security+Focused.;RHCSA+Certified+%7C+Security+Plus+Certified.;RHEL+%7C+Ansible+%7C+AWS+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=535&lines=Hi+there!+I'm+Milan+Epps.;Linux+Systems+Admin+%7C+Cloud+Security;RHCSA+Certified+%7C+Security+Plus+Certified.;RHEL+%7C+Ansible+%7C+AWS+%7C+Python" />
 </h1>
 
 <h1 align="center">Hi, I'm Milan 👋</h1>
