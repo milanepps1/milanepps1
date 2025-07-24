@@ -52,7 +52,9 @@
 - <b>Microsoft Azure</b>
   - <a href="https://github.com/milanepps1/Azure-Web-Server-VM/tree/main"> Nextcloud VNet Deployment in Microsoft Azure</a>
 - <b>AWS</b>
-  - [AWS Elastic IPs with Amazon Linux AMI (Amazon Machine Image)] Creating an EC2 Instance and Assigning a Static IP using Elastic IPs in AWS 
+  - [AWS Elastic IPs with Amazon Linux AMI (Amazon Machine Image)] Creating an EC2 Instance and Assigning a Static IP using Elastic IPs in AWS
+- <b>Working with SIEMs</b>
+  - <a href="https://github.com/milanepps1/SIEM-It-To-Believe-It"> SIEM It To Believe It</a>
 
 
 
